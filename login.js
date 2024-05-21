@@ -46,7 +46,7 @@ submitButton.addEventListener("click", function (event){
       alert(user.uid)
       alert("Sign In Successfully");
 
-      window.location.href = "/main.html";
+      window.location.href = "greenGuard/main.html";
       
       // ...
     })
